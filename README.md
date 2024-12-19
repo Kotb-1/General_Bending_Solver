@@ -19,7 +19,7 @@ fixed(INPUTs)  for fixed supports
 simple(INPUTs) for simple supports
 roller(INPUTs) for roller supports
 
-# indicates a variable that's explained in the help of its relevant function
+"#" indicates a variable that's explained in the help of its relevant function
 
 Instructions
 1- Define the number of planes of loadings in the variable n_planes.
