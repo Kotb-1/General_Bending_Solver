@@ -2,7 +2,8 @@
 The code receives loads and supports of both planes as input; then, it solves the system and generates plots for shear force, bending moment, and beam deflection.
 
 
-Main_Script.m is what you'll be editing
+Main_Script.m is what you'll be editing.
+
 You Only need to change 
 
 Is, defined supports, defined loads.
